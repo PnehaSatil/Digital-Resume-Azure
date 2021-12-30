@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "DESKTOP-HCD87N7",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/D1thmwoP8ZZETBpEC1EC70JbcsyjoLvS4bxLmj6KTJWt2NkMWv",
+  "gitHubUrl": "https://github.com/pnehasati/Digital-Resume-Azure",
+  "workFolder": "_work"
+}
